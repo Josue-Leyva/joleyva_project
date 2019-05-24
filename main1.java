@@ -1,5 +1,6 @@
-public class  main1{
-  public static void main(Strings[] args){
+public class main1{
+  public static void main(String[] args) {
+    System.out.println("Hello World!");
     //comment
     //added
     String hell = "Hell";
@@ -11,5 +12,6 @@ public class  main1{
    }
    public static void name1(){
         int mult = 5*2; //10
+
    }
 }
