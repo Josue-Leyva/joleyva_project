@@ -4,5 +4,6 @@ public class  main1{
     //added
     String hell = "Hell"; 
     int x = 70;
+    double twenty = 20;
    }
 }
