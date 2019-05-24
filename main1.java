@@ -10,6 +10,6 @@ public class  main1{
     int three = 3 ;
    }
    public static void name(){
-        int mult = 5*2;
+        int mult = 5*2; //10
    }
 }
