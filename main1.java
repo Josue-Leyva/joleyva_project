@@ -9,7 +9,7 @@ public class  main1{
     //another one
     int three = 3 ;
    }
-   public static void name(){
+   public static void name1(){
         int mult = 5*2; //10
    }
 }
