@@ -3,5 +3,6 @@ public class  main1{
     //comment
     //added
     String hell = "Hell"; 
+    int x = 70;
    }
 }
